@@ -1,1 +1,28 @@
-
+.verde {
+    background: rgb(18, 97, 18);
+    width: 800px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.amarelo {
+    background: yellow;
+    width: 300px;
+    height: 300px;
+    transform: rotateZ(45deg);
+}
+.azul {
+    background: blue;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.branco {
+    background: white;
+    width: 300px;
+    height: 30px;
+    transform: rotateZ(140deg);
+}
